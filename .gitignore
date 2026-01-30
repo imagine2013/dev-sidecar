@@ -18,3 +18,6 @@ out
 gen
 *.log
 *.lnk
+
+# ignore gitignore_test.txt file
+gitignore_test.txt 
